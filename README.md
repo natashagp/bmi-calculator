@@ -9,3 +9,7 @@ This is a simple BMI Calculator App build with Flutter 2.0 and inspired by Prem 
 ## Demo
 
 <img src="/demo/demo.gif" width="200" height="400"/>
+
+## Inspiration
+
+[Dribble](https://dribbble.com/shots/4479268-BMI-calculator)
